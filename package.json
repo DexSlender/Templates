@@ -1,0 +1,8 @@
+{
+  "name": "detritus-bot-template",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "repository": "https://github.com/DexSlender/Templates.git",
+  "author": "DexSlender",
+  "license": "MIT"
+}
